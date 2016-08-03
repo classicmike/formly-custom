@@ -1,0 +1,22 @@
+{
+  "name": "formly-builder",
+  "version": "1.0.0",
+  "description": "A builder application for formly-js for drag-and-drop form creation which outputs the necessary JSON for the form. http://www.spengineeringltd.com/Pages/FormBuilder.aspx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formly-js/formly-builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/formly-js/formly-builder/issues"
+  },
+  "homepage": "https://github.com/formly-js/formly-builder#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
